@@ -21,6 +21,7 @@ function Header() {
       <div className="auth-buttons">
         <button id="login-button" onClick={()=>document.location="/login"}>Log In</button>
         <button id="signup-button" onClick={()=>document.location="/signup"} >Sign Up</button>
+        <button id="creator-button">Creator</button>
       </div>
     </header>
   );

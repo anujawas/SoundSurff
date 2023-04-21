@@ -11,7 +11,7 @@
     padding: 30px;
     border-radius: 10px;
     box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
-    height: 400px;
+    height: 500px;
     width: 350px;
 
   }
@@ -65,4 +65,50 @@
   #auth-form p a:hover {
     color: #4a4aff;
   }
+  .form-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
   
+  .form-group label {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .form-group input {
+    width: 6%;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    margin-left: 40%;
+    border: 2px solid #ccc;
+    outline: none;
+  }
+  
+  .checkbox-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .checkbox-group label {
+    font-size: 16px;
+    margin-left: 10px;
+  }
+  
+  .signup-button {
+    background-color: #ff8400;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .signup-button:hover {
+    background-color: #ffad5c;
+  }
