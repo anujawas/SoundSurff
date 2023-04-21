@@ -7,7 +7,7 @@ function Header() {
     <header>
       <nav>
         <ul>
-          <h2><img src={logo} alt="SoundSurff logo" /></h2>
+          <h2 onClick={()=>document.location="/"}><img src={logo} alt="SoundSurff logo" /></h2>
           <li><a href="/" id="home-link">Home</a></li>
           <li><a href="/categories" id="categories-link">Categories</a></li>
           <li>
