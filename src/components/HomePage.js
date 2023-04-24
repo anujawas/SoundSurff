@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import "../styling/Home.css"
+
 import { FaPlay } from "react-icons/fa"
 import {AiFillCloseCircle} from "react-icons/ai"
 import Header from "./Header";
@@ -27,7 +28,9 @@ function HomePage() {
             <Header />
             <div className="container">
                 <div className="banner">
-                    <h1>Welcome to My Podcast App</h1>
+                    <h1>Welcome to SoundSurff</h1>
+                    
+                    <p>Our voice meets your perspective</p>
                     <p>Listen to the latest and greatest podcasts</p>
                 </div>
                 <div className="podcast-list">
