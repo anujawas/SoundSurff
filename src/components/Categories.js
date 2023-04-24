@@ -30,7 +30,7 @@ function Categories() {
                         <h2>Stand Up </h2>
                     </div>
                     <div className="category">
-                        <img src={"https://img.freepik.com/free-photo/young-beautiful-girl-hiding-face-with-hands-grey-wall_176420-696.jpg?w=1060&t=st=1682345382~exp=1682345982~hmac=d3b5672f98eea2177e661d7c47002d41d07293bb26fff50d268bd2659d286f1d"} alt="Sad" />
+                        <img src={"https://imgs.search.brave.com/OALtJwixhRnLpkjm2zjpk2K8m4jZy0ZIWR7v4yii4gA/rs:fit:1200:1200:1/g:ce/aHR0cDovL2dldHdh/bGxwYXBlcnMuY29t/L3dhbGxwYXBlci9m/dWxsLzgvYS8zLzEz/NjcxNC5qcGc"} alt="Sad" />
                         <h2>Sad </h2>
                     </div>
                 </div>
