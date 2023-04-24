@@ -10,7 +10,7 @@ function Categories() {
                 <h1>Categories</h1>
                 <div className="category-grid">
                     <div className="category">
-                        <img src={"https://megaphone.imgix.net/podcasts/b0ae66de-98b1-11ec-8011-bbd1a2a32272/image/image.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"} alt="Romance" />
+                        <img src={"https://cdn.pixabay.com/photo/2018/01/04/19/43/love-3061483_960_720.jpg"} alt="Romance" />
                         <h2>Romance</h2>
                     </div>
                     <div className="category">
@@ -24,6 +24,14 @@ function Categories() {
                     <div className="category">
                         <img src={"https://thumbs.dreamstime.com/z/learn-study-inspect-mystery-pictured-as-magnifying-glass-enlarging-word-symbolizes-researching-exploring-analyzing-meaning-164571087.jpg"} alt="Mystery" />
                         <h2>Mystery</h2>
+                    </div>
+                    <div className="category">
+                        <img src={"https://png.pngtree.com/template/20220525/ourmid/pngtree-stand-up-comedy-neon-sign-with-microphone-and-red-curtain-vector-image_1664011.jpg"} alt="Stand Up" />
+                        <h2>Stand Up </h2>
+                    </div>
+                    <div className="category">
+                        <img src={"https://imgs.search.brave.com/OALtJwixhRnLpkjm2zjpk2K8m4jZy0ZIWR7v4yii4gA/rs:fit:1200:1200:1/g:ce/aHR0cDovL2dldHdh/bGxwYXBlcnMuY29t/L3dhbGxwYXBlci9m/dWxsLzgvYS8zLzEz/NjcxNC5qcGc"} alt="Sad" />
+                        <h2>Sad </h2>
                     </div>
                 </div>
             </div>
